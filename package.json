@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "04-formularios",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
